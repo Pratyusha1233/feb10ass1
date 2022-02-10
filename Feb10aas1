@@ -1,0 +1,13 @@
+Sno=int(input('enter student no:')
+Sname=input('enter student name:')
+Sgroup=input('enter student group:')
+S1=int(input('maths marks'))
+S2=int(input('chemistry marks'))
+S3=int(input('computers marks'))
+S4=int(input('english marks'))
+S5=int(input('telugu marks'))
+S6=int(input('as marks'))
+if S1>=50,S2>=50,S3>=50,S4>=50,S5>=50,S6>=50:
+Print('student is pass')
+else:
+Print('student is fail')
